@@ -9,7 +9,7 @@ The dataset can be downloaded from the following kaggle website.
 <br>
 https://www.kaggle.com/thegurus/spanish-high-speed-rail-system-ticket-pricing
 <br>
-In this work we have used Boosting method. 
+In this work we have used Boosting method. Boosting is an ensemble method in machine learning.
 # Boosting builds multiple incremental moedels to decrease the bias while keeping the variance small. 
 <br>We can get some brief idea about Gradient Boosting from the following link: <br> 
 https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
