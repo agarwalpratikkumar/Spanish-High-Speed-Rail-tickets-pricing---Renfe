@@ -1,5 +1,9 @@
 # Spanish-High-Speed-Rail-tickets-pricing---Renfe
-This is a Spanish High Speed Train Service (Renfe AVE) tickets pricing monitoring system. It scrapes tickets pricing data periodically and stores it in a database. Ticket pricing changes based on demand and time, and there can be significant difference in price. We are creating this product mainly with ourselves in mind. Users can set up alarms using an email, choosing an origin and destination (cities), time (date and hour range picker) choosing a price reduction over mean price, etc.
+This is a Spanish High Speed Train Service (Renfe AVE) tickets pricing monitoring system. 
+Ticket pricing changes based on demand and time, and there can be significant difference in price. Keeping this in mind in this work Exploratory Data Analysis (EDA) has been performed and data has been visualized using matplotlib and seaborn.
+After performing some feature engineering a machine learning model has been trained which could predict the ticket price.
+The work can be proved beneficial for the local people and can help them getting some estimate of the ticket price. 
+Users can set up alarms using an email, choosing an origin and destination (cities), time (date and hour range picker) choosing a price reduction over mean price.
 <br>
 https://www.kaggle.com/thegurus/spanish-high-speed-rail-system-ticket-pricing
 <br>You can download the dataset from kaggle website. 
